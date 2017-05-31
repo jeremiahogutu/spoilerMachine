@@ -22,7 +22,7 @@ button {
 }
 
 .spoiler {
-  background: #1d3c6a;
+  background: #000;
   width: 440px;
   margin: 0 auto 20px;
   border-radius: 5px;
@@ -31,19 +31,8 @@ button {
   font-size: 24px
 }
 .spoiler span {
-  color: #dae1e4;
+  color: #fff;
 }
 
-.reset {
-  background: #1d3c6a;
-  width: 440px;
-  margin: 0 auto 20px;
-  border-radius: 5px;
-  padding: 40px 20px;
-  text-align: center;
-  font-size: 24px
-}
-.reset span {
-  color: #dae1e4;
-}
+
 

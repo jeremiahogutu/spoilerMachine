@@ -4,35 +4,34 @@ body {
   font-family: sans-serif;
 }
 img {
-  display: block;
   width: 400px;
-  margin: 100px auto;
 }
 button {
   background: yellow;
   border: none;
   border-radius: 5px;
   color: #1d3c6a;
-  font-size: 24px;
-  width: 480px;
-  padding: 40px 0;
-  margin: -40px -20px;
+  font-size: 1em;
+  width: 100%;
+  padding: 20px;
   outline: none;
   cursor: pointer;
 }
 
 .spoiler {
   background: #000;
-  width: 440px;
-  margin: 0 auto 20px;
+  width: 80%;
   border-radius: 5px;
-  padding: 40px 20px;
+  padding: 40px;
   text-align: center;
   font-size: 24px
 }
 .spoiler span {
-  color: #fff;
+  color: #dae1e4;
 }
 
+.spaceFix {
+  padding: 20px;
+}
 
 
